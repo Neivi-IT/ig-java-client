@@ -60,7 +60,7 @@
         <java.version>1.8</java.version>
 
         <boot.version>1.4.2.RELEASE</boot.version>
-        <spring-cloud.version>CAMDEN.RELEASE</spring-cloud.version>
+        <spring-cloud.version>Camden.RELEASE</spring-cloud.version>
 
         <lightstreamer-java-client.version>3.0.0-b1</lightstreamer-java-client.version>
 
