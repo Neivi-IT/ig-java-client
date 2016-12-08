@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.inversionas.labs.client.java.ig.autoconfigure.IGAutoConfiguration
